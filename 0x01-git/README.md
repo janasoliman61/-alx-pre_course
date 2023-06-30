@@ -1,1 +1,1 @@
-hi im new
+my frst readme updated
